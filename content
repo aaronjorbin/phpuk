@@ -1,0 +1,88 @@
+Modernizing a Stagnant Toolbox
+The Web is a <em>Changing</em> Place
+2003
+Make
+Ant
+JSLint
+<em>That's</em>&nbsp;<small>almost</small>&nbsp;<em>It</em>
+2013
+Grunt
+Phing
+JSHint
+JSValidate
+PHPUnit
+qUnit
+Mocha
+Jasmine
+<small>Options</small><br/>Options<br/><em>Options</em>
+<em>2013</em> Looked like <em>2003</em>
+Separate Unit Test Repository
+Bots Behind the Scene
+Problems
+Tests&nbsp;are<br/><em>Hidden</em>
+Tests&nbsp;are<br/><em>Harder</em>
+Tools&nbsp;are<br/><em>Hidden</em>
+<em>Missing</em> Optimizations 
+Big&nbsp;Project<br/><em>Big&nbsp;Goals</em>
+<em>Non</em>&nbsp;Breaking
+More <em>Tools</em>
+More <em>Testing</em>
+More <em>Transparency</em>
+<em>Easy</em> To Develop 
+Easy To <em>Contribute</em>
+<em>Better</em> Patches 
+Where We Went
+One&nbsp;Repository*
+VC Agnostic
+One&nbsp;Repository*<br/><small>*&nbsp;Actually&nbsp;Four</small> 
+core.svn<br />develop.svn
+Sync
+core.svn still <em>works</em>
+core.svn still <em>can be developed</em>
+develop.svn has the new happy
+Version Control <em>Agnostic</em>
+git.core<br/>svn.core<br/>git.develop</br/>svn.develop
+More Tools
+Grunt
+Why Grunt?
+Stable
+Big Community
+Lots of Modules 
+Group Tasks By Actions
+Build Our Own Tools
+grunt-patch-wordpress
+Patch Creation Agnostic
+Git, SVN, Core, Develop
+Simplify Steps
+1)&nbsp;wget&nbsp;Patch<br/>2)&nbsp;how&nbsp;was&nbsp;patch&nbsp;created?<br/>3)&nbsp;apply&nbsp;patch<br/>4)&nbsp;go&nbsp;to&nbsp;2
+1)&nbsp;grunt&nbsp;patch:15705
+Sibling Projects
+grunt-cssjanus
+Gruntified cssjanus
+Left-to-Right<br/>Right-to-Left
+No RTL specific<br/>commits since November
+JsHint
+Team Effort
+One File at a Time
+Grunt Filter by File
+wp-cli
+travis
+More Testing
+PHPUnit
+Tests&nbsp;&amp;&nbsp;Code<br />Same&nbsp;Commit
+<em>382&nbsp;Additions</em><br/>136&nbsp;Additions
+QUnit
+Sinon
+Better Patches
+EditorConfig
+Happier CSS
+SASS
+autoprefixer
+Community Driven
+Varying-Vagrant-Vagrants
+Lessons
+<em>Have Goals</em> 
+<em>Don't Create New Problems</em>
+<em>Support Your Community</em>
+<em>Support Entire Community</em>
+Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin
