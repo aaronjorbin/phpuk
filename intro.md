@@ -1,1 +1,1 @@
-I had already graduated from University before I wrote my first line of code. The first code I wrote was in the Nob Hill Old Pharmacy Cafe, a 24 hour coffee shop in Portland, Oregon
+I've spent the last couple of weeks moving flats.  As all of us who have ever moved know, calling it a frustrating process can easily be an 
