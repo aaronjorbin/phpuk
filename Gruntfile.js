@@ -97,7 +97,6 @@ module.exports = function(grunt) {
 			server: {
 				tasks: [
 					'connect',
-					'open',
 					'watch:jade',
 					'watch:copy',
 				],
