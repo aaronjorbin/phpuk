@@ -1,10 +1,11 @@
-Modernizing a Stagnant Toolbox
+Modernizing the WordPress Toolbox
 Moving
-The Web is a <em>Changing</em> Place
+Taking Out Windows
 2003
 Make
 Ant
 JSLint
+SimpleTest
 <em>That's</em>&nbsp;<small>almost</small>&nbsp;<em>It</em>
 2013
 Grunt
@@ -27,6 +28,13 @@ Tests&nbsp;are<br/><em>Harder</em>
 Tools&nbsp;are<br/><em>Hidden</em>
 <em>Missing</em> Optimizations 
 Big&nbsp;Project<br/><em>Big&nbsp;Goals</em>
+Philosophy of Tooling
+Make Contributing Code Easy
+Bad Patches Make More Work
+Make Contributing Quailty Code Easy
+If Focus is on Ease, 
+Make Contributing Quality Code as Easy as it Should Be 
+Barriers Only On Purpose
 <em>Non</em>&nbsp;Breaking
 More <em>Tools</em>
 More <em>Testing</em>
@@ -60,15 +68,23 @@ Simplify Steps
 1)&nbsp;wget&nbsp;Patch<br/>2)&nbsp;how&nbsp;was&nbsp;patch&nbsp;created?<br/>3)&nbsp;apply&nbsp;patch<br/>4)&nbsp;go&nbsp;to&nbsp;2
 1)&nbsp;grunt&nbsp;patch:15705
 Sibling Projects
+Available for other Trac Projects
+Uploads Next
 grunt-cssjanus
-Gruntified cssjanus
+Gruntified CSSJanus
 Left-to-Right<br/>Right-to-Left
-No RTL specific<br/>commits since November
+Limited RTL specific Commits
+Barrier to Contribution Lowered
+CSSJanus isn't perfect
+Grunt-RTLCSS
 JsHint
 Team Effort
 One File at a Time
 Grunt Filter by File
-wp-cli
+PHP Code Sniffer?
+Stylistic Changes Pollute History
+Blame is a debuggers friend
+PHPCS Only for Changesets
 travis
 More Testing
 PHPUnit
@@ -81,8 +97,19 @@ EditorConfig
 Happier CSS
 SASS
 autoprefixer
+More than just code
+Trac
+Own our Experience
+Commiters Noted
+Gardeners Know New
+
 Community Driven
-Varying-Vagrant-Vagrants
+wp-cli
+Command Line WordPress
+Varying Vagrant Vagrants
+Variable VVV
+Salty WordPress
+VCCW
 Lessons
 <em>Have Goals</em> 
 <em>Don't Create New Problems</em>
