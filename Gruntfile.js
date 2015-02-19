@@ -19,7 +19,7 @@ module.exports = function(grunt) {
 				}],
 				options: {
 					data: {
-						pageTitle: 'modernizing-a-stagnant-toolbox' ,
+						pageTitle: 'Modernizing the WordPress Toolbox' ,
 						'slideContent': slideContent	
 					},
 					pretty: true,

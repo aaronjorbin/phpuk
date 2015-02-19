@@ -1,4 +1,4 @@
-Modernizing the WordPress Toolbox
+Modernizing the <em>W</em>ord<em>P</em>ress Toolbox
 Moving
 Taking Out Windows
 2003
@@ -30,12 +30,12 @@ Tests&nbsp;are<br/><em>Hidden</em>
 Tests&nbsp;are<br/><em>Harder</em>
 Tools&nbsp;are<br/><em>Hidden</em>
 <em>Missing</em> Optimizations 
-Philosophy of Tooling
-Make Contributing Code Easy
+<em>Philosophy</em> of Tooling
+Make <em>Contributing</em> Code Easy
 Bad Patches Make More Work
-Make Contributing Quailty Code Easy
+Make Contributing <em>Quality</em> Code Easy
 Bad Patches Make More Work
-Make Contributing Quality Code as Easy as it Should Be 
+Make Contributing <em>Quality Code <em>as Easy as it Should Be</em>
 Barriers Only On Purpose
 Big&nbsp;Project<br/><em>Big&nbsp;Goals</em>
 <em>Non</em>&nbsp;Breaking
@@ -47,9 +47,9 @@ Easy To <em>Contribute</em>
 <em>Better</em> Patches 
 Where We Went
 One&nbsp;Repository*
+core.svn.wordpress.org
 VC Agnostic
 One&nbsp;Repository*<br/><small>*&nbsp;Actually&nbsp;Four</small> 
-core.svn.wordpress.org
 core.svn&#8628;<br/>develop.svn
 Sync
 core.svn still <em>works</em>
@@ -107,10 +107,11 @@ autoprefixer
 SASS
 More than just code
 Trac
-Own our Experience
+Own Our Experience
 Commiters Noted
 Gardeners Know New
 Community Driven
+Sibling Projects Drive Each Other
 wp-cli
 Command Line WordPress
 Varying Vagrant Vagrants
@@ -120,7 +121,8 @@ VCCW
 Lessons
 <em>Have Goals</em> 
 <em>Don't Create New Problems</em>
+<em>Learn from yourself</em>
 <em>Support Your Community</em>
 <em>Support Entire Community</em>
 <em>You Own Your Dependencies Bugs</em>
-Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin
+Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin<br/><small>joind.in/13366</small>
